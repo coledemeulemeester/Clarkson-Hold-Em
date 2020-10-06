@@ -1,0 +1,10 @@
+#directory "_build";;
+#require "str";;
+#require "qcheck";;
+#require "ANSITerminal";;
+#load_rec "state.cmo";;
+#load_rec "command.cmo";;
+#load_rec "card.cmo";;
+#load_rec "main.cmo";;
+#load_rec "ai.cmo";;
+#load_rec "ui.cmo";;

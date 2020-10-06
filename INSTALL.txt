@@ -1,0 +1,1 @@
+As long as OCaml has been installed on your system as per the OCaml installation guide on the CS3110 Fall 2019 website, there is nothing else you need to install. Navigate to the project directory in the command line and “make play” to build and run the project.
