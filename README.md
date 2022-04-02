@@ -2,5 +2,7 @@
 
 Final Project for my Cornell CS 3110 Functional Programming course. 
 This project is a virtual implementation of Texas Hold-em Poker in OCaml. 
-Collaborated with Kunal Sheth and Reza Madhavan.\n
+Collaborated with Kunal Sheth and Reza Madhavan.
+
+
 ![Terminal-based GUI](/assets/clarksonholdemgui.png)
